@@ -1,8 +1,6 @@
 /*
  *	rollercoaster.c
  * Tyler Langille
- * B00615482
- * CSCI3161 Assign 3
  */
 
 #include <stdlib.h>
